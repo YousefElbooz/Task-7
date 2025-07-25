@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to the Blog",
+    "body": "This is the first post on our new blog!"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Tips",
+    "body": "Always declare variables with let or const."
+  },
+  {
+    "id": 3,
+    "title": "Node.js Guide",
+    "body": "Node.js is a runtime environment for executing JavaScript on the server."
+  },
+  {
+    "id": 4,
+    "title": "Express Basics",
+    "body": "Express is a minimal and flexible Node.js web application framework."
+  },
+  {
+    "id": 5,
+    "title": "Understanding REST",
+    "body": "REST stands for Representational State Transfer, an architectural style."
+  },
+  {
+    "id": 6,
+    "title": "How to Use Git",
+    "body": "Git is a distributed version control system for tracking changes in source code."
+  },
+  {
+    "id": 7,
+    "title": "Async Programming",
+    "body": "Async/await makes it easier to work with asynchronous JavaScript code."
+  },
+  {
+    "id": 8,
+    "title": "Frontend vs Backend",
+    "body": "Frontend deals with UI, while backend handles server-side logic."
+  },
+  {
+    "id": 9,
+    "title": "Deploying to Heroku",
+    "body": "You can deploy Node.js apps easily on Heroku with Git and a few CLI commands."
+  },
+  {
+    "id": 10,
+    "title": "Learning APIs",
+    "body": "APIs allow applications to communicate with each other using predefined protocols."
+  },
+  {
+    "id": 12,
+    "title": "Post Two",
+    "body": "Content of Post Two"
+  },
+  {
+    "id": 13,
+    "title": "Post Two",
+    "body": "Content of Post Two"
+  }
+]
